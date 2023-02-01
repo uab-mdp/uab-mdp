@@ -1,7 +1,7 @@
 # UAB Masters in Modeling, Data and Predition blog
 
 # Maintainers:
-- Kevin Fletcher
+- Kevin Fletcher [Github](https://github.com/0xtal)
 
 ## License:
 
