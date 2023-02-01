@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About The Program
-subtitle: Recommended Course Sequence
+title: Current Students and Alumni
+subtitle: Personal Websites
 ---
 
-### January 2021 Intake
-[Person A](https://www.linkedin.com)  
-[Person B](https://www.linkedin.com)  
-
-
 ### January 2022 Intake
-[Person C](https://www.linkedin.com)  
-[Person D](https://www.linkedin.com)  
+[Colby Jamieson](https://www.linkedin.com/in/colby-jamieson-066b8640/)  
+[Kevin Fletcher](https://www.linkedin.com/in/kevin-fletcher-0xb/) 
+[Kent Butt](https://www.linkedin.com/in/kent-butt/)  
 
+
+### January 2021 Intake  
