@@ -13,18 +13,17 @@
 title: UAB MDP
 
 # Your name to show in the footer
-author: Colby Jamieson
+author: MDP Students
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About the Program: "About the Program"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://sites.ualberta.ca/~mathirl/MDP/MDP_index.html"
+  Main Website: "https://sites.ualberta.ca/~mathirl/MDP/MDP_index.html"
 
 ################
 # --- Logo --- #
