@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Current Students and Alumni
-subtitle: Personal Websites
+title: Personal Websites
+subtitle: Current Students and Alumni
 ---
 
 ### January 2022 Intake
