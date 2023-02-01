@@ -9,4 +9,4 @@ Creative works on the UAB Masters in Modeling, Data and Prediction blog (this re
 
 ## Contributing to the blog:
 
-See [here](https://uab-mdp.github.io/resources/contribution/).
+See [here](https://uab-mdp.github.io/2023-01-30-markdown/).
