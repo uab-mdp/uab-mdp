@@ -22,6 +22,7 @@ author: MDP Students
 navbar-links:
   About the Program: "abouttheprogram"
   Resources:
+    - Alumni Info: "alumnisites"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Main Website: "https://sites.ualberta.ca/~mathirl/MDP/MDP_index.html"
 
