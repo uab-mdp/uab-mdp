@@ -4,13 +4,20 @@ title:
 subtitle: Recommended Course Sequence
 ---
 
-### Fall Semester #1  
+### Fall
 MATH 509  
 STAT 537  
-STAT 553  
+Selective #1  
   
   
-### Winter Semester  
+### Winter  
 STAT 513  
 MATH 572  
 STAT 541  
+
+### Summer
+Internship
+
+### Fall
+Selective #2
+Selective #3
