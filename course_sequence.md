@@ -1,5 +1,6 @@
 ---
 layout: page
+title:  
 subtitle: Recommended Course Sequence
 ---
 
