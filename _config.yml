@@ -21,7 +21,7 @@ author: MDP Students
 
 navbar-links:
   About the Program: 
-    - Course Sequence: "abouttheprogram"
+    - Course Sequence: "course_sequence"
     - Alumni Info: "alumnisites"
   Resources:
     - Main Website: "https://sites.ualberta.ca/~mathirl/MDP/MDP_index.html"
