@@ -20,11 +20,13 @@ author: MDP Students
 ###############################################
 
 navbar-links:
-  About the Program: "abouttheprogram"
-  Resources:
+  About the Program: 
+    - Course Sequence: "abouttheprogram"
     - Alumni Info: "alumnisites"
+  Resources:
+    - Main Website: "https://sites.ualberta.ca/~mathirl/MDP/MDP_index.html"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Main Website: "https://sites.ualberta.ca/~mathirl/MDP/MDP_index.html"
+  
 
 ################
 # --- Logo --- #
