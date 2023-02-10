@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Personal Websites
-subtitle: Current Students and Alumni
+title: UAB MDP
+subtitle: Alumni LinkedIn
 ---
 
 ### January 2022 Intake
