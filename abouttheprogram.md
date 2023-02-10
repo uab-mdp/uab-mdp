@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About The Program
+<! title: About The Program
 subtitle: Recommended Course Sequence
 ---
 
