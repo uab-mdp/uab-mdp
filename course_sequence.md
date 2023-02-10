@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Suggested Course Sequence
+title: UAB MDP
+subtitle: Suggested Course Sequence
 ---
 
 ### Fall
