@@ -19,5 +19,5 @@ STAT 541
 Internship
 
 ### Fall
-Selective #2
-Selective #3
+Selective #2  
+Selective #3  
