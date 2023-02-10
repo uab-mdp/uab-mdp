@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ## Suggested Course Sequence
+title: Suggested Course Sequence
 ---
 
 ### Fall
