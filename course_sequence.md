@@ -27,6 +27,7 @@ MATH 508 Computational Finance
 MATH 524 Ordinary Differential Equations 2A  
 MATH 535 Numberical Methods 1   
 MATH 570 Mathematical Biology  
+MATH 663 Fourier Analysis  
 MATH 667 Mathematical Modelling of Infectious Diseases  
 STAT 553 Risk Theory  
 STAT 575 Multivariate Statistical Analysis  
